@@ -3,6 +3,8 @@
 
 body {
     font-family: 'Work Sans', sans-serif;
+    padding: 0;
+    margin: 0;
 
 
 }
@@ -313,6 +315,7 @@ li {
     display: flex;
     justify-content: space-evenly;
     margin-top: 200px;
+    filter: grayscale(100%);
 }
 
 /* my foot section */
